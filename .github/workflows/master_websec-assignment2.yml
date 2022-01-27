@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebSec-Assignment2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2B31494136A404399F9319BFD485D8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF4B471B6A474AE1BB775823CF6DB6E1 }}
           package: .
